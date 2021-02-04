@@ -1,2 +1,17 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<header class="page-header">
+    <h1>Dashboard</h1>
+</header>
+<div>
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h2 class="text-center">Product Count</h1>
+      <p class="lead text-center jumbo"><%= @product_count %></p>
+    </div>
+  </div>
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h2 class="text-center">Category Count</h1>
+      <p class="lead text-center jumbo"><%= @category_count %></p>
+    </div>
+  </div>
+</div>
