@@ -14,7 +14,7 @@
 
     <% if active_sale? %>
       <p class="alert alert-info">
-        There's and active <%= "Winter" %> sale going on! <b>Everything is <%= 40 %>% off!</b>
+        There's and active <%= @sales.inspect %> sale going on! <b>Everything is <%= 40 %>% off!</b>
       </p>
     <% end %>
 
