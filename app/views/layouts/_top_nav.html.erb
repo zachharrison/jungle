@@ -48,7 +48,7 @@
           <% end %>
         </li>
         <% if current_user %>
-        <li style="margin-top: 15px">Signed in as <span style="font-weight: bold; color: #b44; margin-left: 3px;"><%= current_user.name %></span></li>
+        <li style="margin-top: 15px">Signed in as <span style="font-weight: bold; color: #b44; margin-left: 3px;"><%= current_user.first_name %></span></li>
         <li><%= link_to 'Logout', '/logout' %></li>
       <% else %>
         <li><%= link_to 'Login', '/login' %></li>
