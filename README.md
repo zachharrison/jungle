@@ -25,3 +25,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+![Home page](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/home-page.png)
+![Product details](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/product-details.png)
+![Cart](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/cart.png)
+![Admin dashboard](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/admin-dashboard.png)
