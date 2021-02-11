@@ -28,7 +28,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-![Home page](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/home-page.png)
-![Product details](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/product-details.png)
-![Cart](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/cart.png)
-![Admin dashboard](/Users/zachharrison/lighthouse/w9/jungle/app/assets/img/admin-dashboard.png)
+![Home page](./app/assets/img/home-page.png)
+![Product details](./app/assets/img/product-details.png)
+![Cart](./app/assets/img/cart.png)
+![Admin dashboard](./app/assets/img/admin-dashboard.png)
